@@ -43,7 +43,7 @@
 | user_query | str | Исходный запрос для контекста |
 
 ## 3. Алгоритм работы
-![alt text](./images/recommender.png)
+![alt text](../images/recommender.png)
 
 ## 5. Валидация и Guardrails
 
