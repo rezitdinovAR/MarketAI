@@ -62,7 +62,7 @@ class Product:
 | marketplace | str | да | Маркетплейс |
 
 **Output:** `ProductDetails`
-```
+```python
 class ProductDetails:
     id: str
     name: str
@@ -150,7 +150,7 @@ class SellerInfo:
 ---
 
 ## 4. Data Provider Architecture
-![alt text](./images/tools.png)
+![alt text](../images/tools.png)
 
 ---
 
