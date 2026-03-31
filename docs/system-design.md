@@ -51,7 +51,7 @@ StateManager|Хранение и валидация state|State updates|Validate
 
 ## 3. Workflow выполнения
 ### 3.1 Основной happy path
-![alt text](./images/hp_path.png)
+![alt text](./images/hp_paths.png)
 
 ### 3.2 Failure paths и fallbacks
 ![alt text](./images/fl_paths.png)
