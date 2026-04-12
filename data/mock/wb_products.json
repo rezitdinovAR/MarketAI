@@ -1,0 +1,169 @@
+{
+  "categories": {
+    "наушники": [
+      {
+        "id": "wb_h001",
+        "name": "Sony WH-1000XM5 Чёрные",
+        "price": 27490,
+        "original_price": 34990,
+        "rating": 4.9,
+        "review_count": 1890,
+        "url": "https://wildberries.ru/product/sony-wh1000xm5-001",
+        "in_stock": true,
+        "seller_id": "wb_seller_megamarket",
+        "seller_name": "МегаМаркет Электроника",
+        "attributes": {"Тип": "полноразмерные", "Подключение": "Bluetooth 5.2", "Шумоподавление": "активное", "Время работы": "30 ч", "Вес": "250 г"},
+        "reviews": [
+          {"id": "wr001", "text": "Заказал на WB, доставили за день. Наушники шикарные, звук чистый и детальный. Шумоподавление лучшее из того что пробовал. Единственное — нагреваются уши при длительном ношении летом.", "rating": 5, "date": "2025-03-08", "verified_purchase": true, "helpful_count": 38},
+          {"id": "wr002", "text": "Были Sony XM3, взял XM5. Прогресс колоссальный. Мультипоинт — подключены к ноуту и телефону одновременно. Шумодав лучше. Минус один — не складываются.", "rating": 5, "date": "2025-02-25", "verified_purchase": true, "helpful_count": 22},
+          {"id": "wr003", "text": "Качество звука на высоте, но для спорта не подходят категорически. Для офиса и дома — 10 из 10.", "rating": 4, "date": "2025-02-05", "verified_purchase": true, "helpful_count": 15}
+        ]
+      },
+      {
+        "id": "wb_h002",
+        "name": "Samsung Galaxy Buds3 Pro",
+        "price": 16990,
+        "original_price": 19990,
+        "rating": 4.5,
+        "review_count": 780,
+        "url": "https://wildberries.ru/product/samsung-buds3pro-002",
+        "in_stock": true,
+        "seller_id": "wb_seller_samsung",
+        "seller_name": "Samsung Store",
+        "attributes": {"Тип": "вкладыши (TWS)", "Подключение": "Bluetooth 5.4", "Шумоподавление": "активное", "Время работы": "7 ч (30 ч с кейсом)", "Вес": "5.4 г"},
+        "reviews": [
+          {"id": "wr004", "text": "Для Samsung-экосистемы — идеальные наушники. Шумоподавление на уровне AirPods Pro. Звук с Galaxy S24 — прекрасный, поддержка кодеков SSC. С iPhone тоже работают, но хуже.", "rating": 5, "date": "2025-03-02", "verified_purchase": true, "helpful_count": 27},
+          {"id": "wr005", "text": "Дизайн стал лучше, не выпадают из ушей. Но пластик царапается моментально. Звук хороший, басы можно подкрутить в приложении.", "rating": 4, "date": "2025-02-14", "verified_purchase": true, "helpful_count": 13},
+          {"id": "wr006", "text": "Купил для бега. Держатся нормально, IPX7 — бегал под дождём. Шумоподавление среднее, не как у Sony, но для улицы хватает.", "rating": 4, "date": "2025-01-20", "verified_purchase": true, "helpful_count": 19}
+        ]
+      },
+      {
+        "id": "wb_h003",
+        "name": "QCY MeloBuds Pro ANC",
+        "price": 2990,
+        "original_price": 3990,
+        "rating": 4.2,
+        "review_count": 3400,
+        "url": "https://wildberries.ru/product/qcy-melobuds-003",
+        "in_stock": true,
+        "seller_id": "wb_seller_qcy",
+        "seller_name": "QCY Store",
+        "attributes": {"Тип": "вкладыши (TWS)", "Подключение": "Bluetooth 5.3", "Шумоподавление": "активное", "Время работы": "8 ч (30 ч с кейсом)", "Вес": "5.2 г"},
+        "reviews": [
+          {"id": "wr007", "text": "За 3к — отличные наушники! Шумоподавление есть, работает. Не как Sony или Apple, но для метро хватает. Звук приличный. Рекомендую как бюджетный вариант.", "rating": 5, "date": "2025-03-05", "verified_purchase": true, "helpful_count": 89},
+          {"id": "wr008", "text": "Качество за свою цену. Минусы: микрофон слабый для звонков, приложение глючное. Плюсы: звук нормальный, батарея долго, ANC работает.", "rating": 4, "date": "2025-02-20", "verified_purchase": true, "helpful_count": 45},
+          {"id": "wr009", "text": "Третья пара QCY, и снова не разочарован. Для спортзала идеальны — дешёвые, если сломаются не жалко. Но пока работают 4 месяца без проблем.", "rating": 4, "date": "2025-01-28", "verified_purchase": true, "helpful_count": 22}
+        ]
+      }
+    ],
+    "ноутбуки": [
+      {
+        "id": "wb_n001",
+        "name": "Huawei MateBook D 14 (i5-1240P, 16GB, 512GB)",
+        "price": 54990,
+        "original_price": 62990,
+        "rating": 4.6,
+        "review_count": 345,
+        "url": "https://wildberries.ru/product/huawei-matebook-d14-001",
+        "in_stock": true,
+        "seller_id": "wb_seller_huawei",
+        "seller_name": "Huawei Store",
+        "attributes": {"Процессор": "Intel Core i5-1240P", "ОЗУ": "16 ГБ", "SSD": "512 ГБ", "Экран": "14\" 2K IPS", "ОС": "Windows 11"},
+        "reviews": [
+          {"id": "wr020", "text": "Шикарный ноут за свои деньги. Экран 2K отличный для работы с текстом. Металлический корпус, выглядит дорого. Батарея 8 часов реально. Минус — нет USB-A, только Type-C.", "rating": 5, "date": "2025-03-01", "verified_purchase": true, "helpful_count": 28},
+          {"id": "wr021", "text": "Для программирования — отличный. 16 ГБ хватает, экран не устаёт глаза. Клавиатура удобная. Не хватает только нормальной видеокарты для ML.", "rating": 4, "date": "2025-02-10", "verified_purchase": true, "helpful_count": 16}
+        ]
+      },
+      {
+        "id": "wb_n002",
+        "name": "ASUS Vivobook 15 (i5-1335U, 16GB, 512GB SSD)",
+        "price": 51490,
+        "original_price": 59990,
+        "rating": 4.4,
+        "review_count": 523,
+        "url": "https://wildberries.ru/product/asus-vivobook15-002",
+        "in_stock": true,
+        "seller_id": "wb_seller_techno",
+        "seller_name": "ТехноМаркет",
+        "attributes": {"Процессор": "Intel Core i5-1335U", "ОЗУ": "16 ГБ", "SSD": "512 ГБ", "Экран": "15.6\" FHD IPS", "ОС": "Без ОС"},
+        "reviews": [
+          {"id": "wr022", "text": "Тот же Vivobook что на Ozon, но чуть дешевле. Доставка WB быстрее. Ноут рабочий, для учёбы и офиса нормально.", "rating": 4, "date": "2025-03-05", "verified_purchase": true, "helpful_count": 10},
+          {"id": "wr023", "text": "Нормальный ноут без изысков. Работает стабильно, не тормозит. Для простых задач самое то.", "rating": 4, "date": "2025-02-20", "verified_purchase": true, "helpful_count": 7}
+        ]
+      }
+    ],
+    "смартфоны": [
+      {
+        "id": "wb_s001",
+        "name": "Samsung Galaxy S24 128GB",
+        "price": 67990,
+        "original_price": 79990,
+        "rating": 4.8,
+        "review_count": 1560,
+        "url": "https://wildberries.ru/product/samsung-s24-001",
+        "in_stock": true,
+        "seller_id": "wb_seller_samsung",
+        "seller_name": "Samsung Store",
+        "attributes": {"Экран": "6.2\" Dynamic AMOLED 2X", "Процессор": "Exynos 2400", "ОЗУ": "8 ГБ", "Камера": "50 МП", "Батарея": "4000 мАч"},
+        "reviews": [
+          {"id": "wr030", "text": "На WB дешевле чем в официальном магазине. Телефон отличный, Galaxy AI функции полезные. Камера топ.", "rating": 5, "date": "2025-03-10", "verified_purchase": true, "helpful_count": 44},
+          {"id": "wr031", "text": "Флагман от Samsung, всё на уровне. Exynos не так плох как пишут, не греется. Батарея — единственная слабость.", "rating": 4, "date": "2025-02-18", "verified_purchase": true, "helpful_count": 21}
+        ]
+      },
+      {
+        "id": "wb_s002",
+        "name": "Realme 12 Pro+ 256GB",
+        "price": 29990,
+        "original_price": 34990,
+        "rating": 4.4,
+        "review_count": 1120,
+        "url": "https://wildberries.ru/product/realme-12pro-002",
+        "in_stock": true,
+        "seller_id": "wb_seller_realme",
+        "seller_name": "Realme Official",
+        "attributes": {"Экран": "6.7\" AMOLED 120Hz", "Процессор": "Snapdragon 7s Gen 2", "ОЗУ": "12 ГБ", "Камера": "50 МП (перископ)", "Батарея": "5000 мАч"},
+        "reviews": [
+          {"id": "wr032", "text": "Перископная камера за 30к — это круто. Зум 3х оптический реально работает. Экран красивый, батарея на 2 дня. Оболочка Realme UI нормальная, не напрягает.", "rating": 5, "date": "2025-03-03", "verified_purchase": true, "helpful_count": 35},
+          {"id": "wr033", "text": "Хороший телефон для своей цены. 12 ГБ ОЗУ — приложения не выгружаются. Камера днём отличная, ночью средне. Зарядка быстрая.", "rating": 4, "date": "2025-02-12", "verified_purchase": true, "helpful_count": 18}
+        ]
+      }
+    ],
+    "пылесосы": [
+      {
+        "id": "wb_v001",
+        "name": "Xiaomi Robot Vacuum X10+ Робот-пылесос",
+        "price": 29990,
+        "original_price": 39990,
+        "rating": 4.5,
+        "review_count": 1230,
+        "url": "https://wildberries.ru/product/xiaomi-x10plus-001",
+        "in_stock": true,
+        "seller_id": "wb_seller_xiaomi",
+        "seller_name": "Xiaomi Official",
+        "attributes": {"Тип": "робот-пылесос", "Влажная уборка": "да", "Мощность": "4000 Па", "Навигация": "LiDAR", "Время работы": "120 мин"},
+        "reviews": [
+          {"id": "wr040", "text": "Отличный бюджетный робот-пылесос с самоочисткой. Для квартиры 50м² работает идеально. Влажная уборка базовая, но пыль собирает. Приложение Mi Home удобное.", "rating": 5, "date": "2025-03-07", "verified_purchase": true, "helpful_count": 55},
+          {"id": "wr041", "text": "Хороший робот за свои деньги. Навигация точная, не бьётся о мебель. Влажная уборка так себе, но сухая уборка на 5. Самоочистка пылесборника — реально удобно.", "rating": 4, "date": "2025-02-20", "verified_purchase": true, "helpful_count": 30},
+          {"id": "wr042", "text": "Для двухкомнатной квартиры хватает. Шумит средне. Ковры чистит нормально, но высокие пороги не переезжает.", "rating": 4, "date": "2025-01-25", "verified_purchase": true, "helpful_count": 16}
+        ]
+      },
+      {
+        "id": "wb_v002",
+        "name": "Dreame L10s Pro Gen 2 Робот-пылесос",
+        "price": 37990,
+        "original_price": 49990,
+        "rating": 4.7,
+        "review_count": 670,
+        "url": "https://wildberries.ru/product/dreame-l10s-002",
+        "in_stock": true,
+        "seller_id": "wb_seller_dreame",
+        "seller_name": "Dreame Store",
+        "attributes": {"Тип": "робот-пылесос", "Влажная уборка": "да", "Мощность": "7000 Па", "Навигация": "LiDAR", "Время работы": "160 мин"},
+        "reviews": [
+          {"id": "wr043", "text": "На WB дешевле чем на Ozon! Робот отличный — мощный, тихий, умный. Влажная уборка лучше чем у Xiaomi. LiDAR строит точную карту.", "rating": 5, "date": "2025-03-01", "verified_purchase": true, "helpful_count": 24},
+          {"id": "wr044", "text": "Пользуюсь 2 месяца — доволен. Убирает каждый день по расписанию. Кот его уже не боится. Пыль собирает хорошо, швабра моет средне.", "rating": 4, "date": "2025-02-10", "verified_purchase": true, "helpful_count": 17}
+        ]
+      }
+    ]
+  }
+}

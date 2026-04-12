@@ -1,0 +1,47 @@
+app:
+  name: "MarketMind"
+  version: "0.1.0"
+  debug: false
+  log_level: "INFO"
+
+llm:
+  provider: "deepseek"
+  model: "deepseek-chat"
+  base_url: "https://api.deepseek.com"
+  timeout: 30
+  max_retries: 2
+  max_calls_per_request: 10
+  max_tokens_per_request: 50000
+  max_cost_per_request: 0.10
+
+search:
+  sources:
+    ozon:
+      enabled: true
+      use_mock: true
+      timeout: 10
+    wildberries:
+      enabled: true
+      use_mock: true
+      timeout: 10
+    yandex:
+      enabled: true
+      use_mock: true
+      timeout: 10
+  max_results_per_source: 20
+  max_results_total: 10
+  min_rating: 3.5
+
+analysis:
+  max_reviews_per_product: 15
+  review_token_limit: 3000
+  batch_size: 3
+
+ui:
+  type: "streamlit"
+  show_debug_info: false
+
+paths:
+  mock_data: "data/mock/"
+  logs: "logs/"
+  prompts: "prompts/"

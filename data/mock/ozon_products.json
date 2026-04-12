@@ -1,0 +1,178 @@
+{
+  "categories": {
+    "наушники": [
+      {
+        "id": "ozon_h001",
+        "name": "Sony WH-1000XM5 Полноразмерные беспроводные",
+        "price": 28990,
+        "original_price": 34990,
+        "rating": 4.8,
+        "review_count": 2341,
+        "url": "https://ozon.ru/product/sony-wh1000xm5-001",
+        "image_url": "https://cdn.ozon.ru/img/sony-xm5.jpg",
+        "in_stock": true,
+        "seller_id": "ozon_seller_sony",
+        "seller_name": "Sony Official Store",
+        "attributes": {"Тип": "полноразмерные", "Подключение": "Bluetooth 5.2", "Шумоподавление": "активное", "Время работы": "30 ч", "Вес": "250 г"},
+        "reviews": [
+          {"id": "r001", "text": "Лучшие наушники которые у меня были. Шумоподавление просто космос, в метро вообще ничего не слышно. Звук детальный и чистый. Носить удобно, даже в очках. Батарея держит заявленные 30 часов.", "rating": 5, "date": "2025-03-10", "verified_purchase": true, "helpful_count": 45},
+          {"id": "r002", "text": "Отличные наушники, но за такую цену хотелось бы чехол получше. Шумодав работает прекрасно. Звук тёплый, басы глубокие. Минус — сильно давят на уши первые пару дней, потом привыкаешь.", "rating": 4, "date": "2025-02-28", "verified_purchase": true, "helpful_count": 23},
+          {"id": "r003", "text": "Перешёл с XM4, разница в шумоподавлении заметна. Звук стал чуть лучше. Но складной механизм убрали, в рюкзак помещаются хуже. Мультипоинт работает отлично — переключаюсь между ноутом и телефоном.", "rating": 5, "date": "2025-02-15", "verified_purchase": true, "helpful_count": 18},
+          {"id": "r004", "text": "Пользуюсь месяц. Для музыки — великолепно. Для бега НЕ подходят — слетают при активных движениях. В офисе и транспорте — идеал.", "rating": 4, "date": "2025-01-20", "verified_purchase": true, "helpful_count": 31},
+          {"id": "r005", "text": "Микрофон для звонков средний, собеседники иногда жалуются на фоновый шум. В остальном нареканий нет, шумоподавление лучшее на рынке.", "rating": 4, "date": "2025-01-05", "verified_purchase": true, "helpful_count": 12}
+        ]
+      },
+      {
+        "id": "ozon_h002",
+        "name": "Apple AirPods Pro 2 (USB-C)",
+        "price": 22490,
+        "original_price": 24990,
+        "rating": 4.7,
+        "review_count": 3120,
+        "url": "https://ozon.ru/product/airpods-pro2-002",
+        "image_url": "https://cdn.ozon.ru/img/airpods-pro2.jpg",
+        "in_stock": true,
+        "seller_id": "ozon_seller_apple",
+        "seller_name": "Apple Store",
+        "attributes": {"Тип": "вкладыши (TWS)", "Подключение": "Bluetooth 5.3", "Шумоподавление": "активное", "Время работы": "6 ч (30 ч с кейсом)", "Вес": "5.3 г (каждый)"},
+        "reviews": [
+          {"id": "r006", "text": "Идеальные вкладыши для iPhone. Шумоподавление удивительное для таких маленьких наушников. Звук хороший, прозрачный режим лучший на рынке. Для бега подходят отлично — не выпадают.", "rating": 5, "date": "2025-03-05", "verified_purchase": true, "helpful_count": 67},
+          {"id": "r007", "text": "С Android работают, но теряешь половину функций. Пространственное аудио только для Apple. Звук хороший, но не аудиофильский. Для повседневного использования — топ.", "rating": 4, "date": "2025-02-20", "verified_purchase": true, "helpful_count": 34},
+          {"id": "r008", "text": "Батарея стала садиться за 4 часа через полгода. Обратился в сервис — поменяли по гарантии. Сами наушники отличные, если работают нормально.", "rating": 3, "date": "2025-02-01", "verified_purchase": true, "helpful_count": 89},
+          {"id": "r009", "text": "Использую для бега уже 3 месяца — ни разу не выпали. Защита от воды работает, попадал под дождь. Шумоподавление на улице помогает не отвлекаться.", "rating": 5, "date": "2025-01-15", "verified_purchase": true, "helpful_count": 22}
+        ]
+      },
+      {
+        "id": "ozon_h003",
+        "name": "JBL Tune 770NC Беспроводные",
+        "price": 6490,
+        "original_price": 7990,
+        "rating": 4.4,
+        "review_count": 890,
+        "url": "https://ozon.ru/product/jbl-tune770nc-003",
+        "image_url": "https://cdn.ozon.ru/img/jbl-770nc.jpg",
+        "in_stock": true,
+        "seller_id": "ozon_seller_jbl",
+        "seller_name": "JBL Official",
+        "attributes": {"Тип": "полноразмерные", "Подключение": "Bluetooth 5.3", "Шумоподавление": "активное", "Время работы": "44 ч", "Вес": "228 г"},
+        "reviews": [
+          {"id": "r010", "text": "За свои деньги — огонь! Шумоподавление не уровень Sony, но для метро хватает. Батарея реально долго держит, заряжаю раз в неделю. Звук типичный JBL — басовитый.", "rating": 5, "date": "2025-03-01", "verified_purchase": true, "helpful_count": 15},
+          {"id": "r011", "text": "Хорошие наушники для своей цены. Пластик дешёвый, скрипит. Но звук приличный и шумодав работает. Для метро и офиса самое то.", "rating": 4, "date": "2025-02-10", "verified_purchase": true, "helpful_count": 8},
+          {"id": "r012", "text": "Сломалось оголовье через 2 месяца, хотя обращался аккуратно. Заменили по гарантии, но осадочек остался. Звук и шумоподавление нормальные для бюджетных.", "rating": 3, "date": "2025-01-25", "verified_purchase": true, "helpful_count": 28}
+        ]
+      }
+    ],
+    "ноутбуки": [
+      {
+        "id": "ozon_n001",
+        "name": "ASUS Vivobook 15 (i5-1335U, 16GB, 512GB SSD)",
+        "price": 52990,
+        "original_price": 59990,
+        "rating": 4.5,
+        "review_count": 456,
+        "url": "https://ozon.ru/product/asus-vivobook15-001",
+        "in_stock": true,
+        "seller_id": "ozon_seller_asus",
+        "seller_name": "ASUS Official",
+        "attributes": {"Процессор": "Intel Core i5-1335U", "ОЗУ": "16 ГБ", "SSD": "512 ГБ", "Экран": "15.6\" FHD IPS", "ОС": "Без ОС"},
+        "reviews": [
+          {"id": "r020", "text": "Для работы и учёбы хватает с головой. Не шумит, батарея 6-7 часов реально. Экран неплохой для IPS. Минус — тачпад мог бы быть побольше.", "rating": 5, "date": "2025-03-08", "verified_purchase": true, "helpful_count": 19},
+          {"id": "r021", "text": "За эти деньги отличный вариант. Поставил Windows 11, всё работает. Играть можно только в простые игры. Для офисных задач идеален.", "rating": 4, "date": "2025-02-15", "verified_purchase": true, "helpful_count": 11},
+          {"id": "r022", "text": "Пришёл с битым пикселем в центре экрана. Вернул, заказал снова — второй нормальный. Ноут сам по себе хороший, но качество контроля хромает.", "rating": 3, "date": "2025-01-20", "verified_purchase": true, "helpful_count": 34}
+        ]
+      },
+      {
+        "id": "ozon_n002",
+        "name": "Lenovo IdeaPad 3 15 (Ryzen 5 7530U, 8GB, 256GB SSD)",
+        "price": 39990,
+        "original_price": 44990,
+        "rating": 4.3,
+        "review_count": 678,
+        "url": "https://ozon.ru/product/lenovo-ideapad3-002",
+        "in_stock": true,
+        "seller_id": "ozon_seller_lenovo",
+        "seller_name": "Lenovo Store",
+        "attributes": {"Процессор": "AMD Ryzen 5 7530U", "ОЗУ": "8 ГБ", "SSD": "256 ГБ", "Экран": "15.6\" FHD IPS", "ОС": "Без ОС"},
+        "reviews": [
+          {"id": "r023", "text": "Хороший бюджетный ноут. 8 ГБ ОЗУ маловато, если открывать много вкладок Chrome. SSD 256 тоже быстро забивается. Но в целом за свои деньги — ок.", "rating": 4, "date": "2025-03-01", "verified_purchase": true, "helpful_count": 22},
+          {"id": "r024", "text": "Купил для ребёнка в школу. Для учёбы хватает. Лёгкий, тонкий. Батарея 5-6 часов.", "rating": 4, "date": "2025-02-10", "verified_purchase": true, "helpful_count": 9}
+        ]
+      }
+    ],
+    "смартфоны": [
+      {
+        "id": "ozon_s001",
+        "name": "Samsung Galaxy S24 128GB",
+        "price": 69990,
+        "original_price": 79990,
+        "rating": 4.7,
+        "review_count": 1890,
+        "url": "https://ozon.ru/product/samsung-s24-001",
+        "in_stock": true,
+        "seller_id": "ozon_seller_samsung",
+        "seller_name": "Samsung Official",
+        "attributes": {"Экран": "6.2\" Dynamic AMOLED 2X", "Процессор": "Exynos 2400", "ОЗУ": "8 ГБ", "Камера": "50 МП + 12 МП + 10 МП", "Батарея": "4000 мАч"},
+        "reviews": [
+          {"id": "r030", "text": "Компактный флагман! Экран шикарный, камера снимает отлично. AI-функции интересные, но сыроватые. Батарея — слабое место, к вечеру уже на 10%.", "rating": 4, "date": "2025-03-12", "verified_purchase": true, "helpful_count": 56},
+          {"id": "r031", "text": "Перешёл с iPhone 14. Экран лучше, камера на уровне. Но iOS мне нравилась больше, Android чуть менее отполирован. В целом телефон топовый.", "rating": 4, "date": "2025-02-20", "verified_purchase": true, "helpful_count": 33},
+          {"id": "r032", "text": "Пользуюсь полгода. Никаких проблем. Обновления приходят регулярно. Камера в ночном режиме — огонь. Рекомендую.", "rating": 5, "date": "2025-01-15", "verified_purchase": true, "helpful_count": 21}
+        ]
+      },
+      {
+        "id": "ozon_s002",
+        "name": "Xiaomi Redmi Note 13 Pro 256GB",
+        "price": 24990,
+        "original_price": 27990,
+        "rating": 4.5,
+        "review_count": 2450,
+        "url": "https://ozon.ru/product/xiaomi-redmi-note13pro-002",
+        "in_stock": true,
+        "seller_id": "ozon_seller_xiaomi",
+        "seller_name": "Xiaomi Official",
+        "attributes": {"Экран": "6.67\" AMOLED 120Hz", "Процессор": "Snapdragon 7s Gen 2", "ОЗУ": "8 ГБ", "Камера": "200 МП", "Батарея": "5100 мАч"},
+        "reviews": [
+          {"id": "r033", "text": "За 25к — лучший телефон. 200МП камера реально детализирует. Экран AMOLED яркий. MIUI иногда подглючивает, но терпимо. Батарея на 2 дня.", "rating": 5, "date": "2025-03-05", "verified_purchase": true, "helpful_count": 44},
+          {"id": "r034", "text": "Реклама в MIUI бесит, но можно отключить. Телефон быстрый, камера хорошая при дневном свете. Ночью камера так себе. Зарядка 67W — за 40 минут полный заряд.", "rating": 4, "date": "2025-02-18", "verified_purchase": true, "helpful_count": 29},
+          {"id": "r035", "text": "Хороший середняк. Не флагман, но для повседневных задач более чем. Играю в Genshin на средних настройках — норм. NFC работает.", "rating": 4, "date": "2025-01-28", "verified_purchase": true, "helpful_count": 15}
+        ]
+      }
+    ],
+    "пылесосы": [
+      {
+        "id": "ozon_v001",
+        "name": "Roborock S8 MaxV Ultra Робот-пылесос",
+        "price": 89990,
+        "original_price": 99990,
+        "rating": 4.9,
+        "review_count": 567,
+        "url": "https://ozon.ru/product/roborock-s8maxv-001",
+        "in_stock": true,
+        "seller_id": "ozon_seller_roborock",
+        "seller_name": "Roborock Official",
+        "attributes": {"Тип": "робот-пылесос", "Влажная уборка": "да, вибрационная швабра", "Мощность": "10000 Па", "Навигация": "LiDAR + камера", "Время работы": "180 мин"},
+        "reviews": [
+          {"id": "r040", "text": "Лучший робот-пылесос. Ездит по квартире 80м² без проблем, не путается, обходит препятствия. Влажная уборка реально моет, не просто размазывает. Самоочистка — кайф, забываешь про него на 2 недели.", "rating": 5, "date": "2025-03-10", "verified_purchase": true, "helpful_count": 78},
+          {"id": "r041", "text": "Дорого, но стоит каждого рубля. Раньше был Xiaomi — небо и земля. Навигация идеальная, моет хорошо. Единственное — база большая, нужно место.", "rating": 5, "date": "2025-02-22", "verified_purchase": true, "helpful_count": 45}
+        ]
+      },
+      {
+        "id": "ozon_v002",
+        "name": "Dreame L10s Pro Gen 2 Робот-пылесос",
+        "price": 39990,
+        "original_price": 49990,
+        "rating": 4.6,
+        "review_count": 890,
+        "url": "https://ozon.ru/product/dreame-l10s-002",
+        "in_stock": true,
+        "seller_id": "ozon_seller_dreame",
+        "seller_name": "Dreame Official",
+        "attributes": {"Тип": "робот-пылесос", "Влажная уборка": "да", "Мощность": "7000 Па", "Навигация": "LiDAR", "Время работы": "160 мин"},
+        "reviews": [
+          {"id": "r042", "text": "Хороший робот за свои деньги. Убирает хорошо, карту строит точно. Влажная уборка средняя — пятна не оттирает. Для поддержания чистоты — отлично.", "rating": 4, "date": "2025-03-01", "verified_purchase": true, "helpful_count": 32},
+          {"id": "r043", "text": "Для квартиры 60м² идеальный вариант. Не шумный, работает по расписанию. Щётки нужно чистить раз в неделю. Рекомендую как первый робот-пылесос.", "rating": 5, "date": "2025-02-15", "verified_purchase": true, "helpful_count": 19},
+          {"id": "r044", "text": "Застревает под диваном (низкий клиренс). Пришлось поставить ограничители. В остальном — доволен. Приложение удобное.", "rating": 4, "date": "2025-01-30", "verified_purchase": true, "helpful_count": 14}
+        ]
+      }
+    ]
+  }
+}

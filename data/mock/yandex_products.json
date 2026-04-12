@@ -1,0 +1,166 @@
+{
+  "categories": {
+    "наушники": [
+      {
+        "id": "ya_h001",
+        "name": "Sony WH-1000XM5",
+        "price": 29490,
+        "original_price": 34990,
+        "rating": 4.8,
+        "review_count": 980,
+        "url": "https://market.yandex.ru/product/sony-wh1000xm5-001",
+        "in_stock": true,
+        "seller_id": "ya_seller_sony",
+        "seller_name": "Sony Centre",
+        "attributes": {"Тип": "полноразмерные", "Подключение": "Bluetooth 5.2", "Шумоподавление": "активное", "Время работы": "30 ч"},
+        "reviews": [
+          {"id": "yr001", "text": "Заказал на Яндекс Маркете, доставка Яндекса — быстро и аккуратно. Наушники топовые, шумоподавление впечатляет. Сравнивал с Bose — Sony лучше по звуку.", "rating": 5, "date": "2025-03-09", "verified_purchase": true, "helpful_count": 25},
+          {"id": "yr002", "text": "Дороже чем на WB, но с гарантией от официального магазина. Наушники отличные, спору нет.", "rating": 4, "date": "2025-02-18", "verified_purchase": true, "helpful_count": 12}
+        ]
+      },
+      {
+        "id": "ya_h002",
+        "name": "Яндекс Станция Дуо Макс (наушники в комплекте)",
+        "price": 18990,
+        "original_price": 21990,
+        "rating": 4.3,
+        "review_count": 450,
+        "url": "https://market.yandex.ru/product/yandex-duo-002",
+        "in_stock": true,
+        "seller_id": "ya_seller_yandex",
+        "seller_name": "Яндекс",
+        "attributes": {"Тип": "полноразмерные", "Подключение": "Bluetooth 5.0", "Шумоподавление": "активное", "Время работы": "20 ч"},
+        "reviews": [
+          {"id": "yr003", "text": "Наушники от Яндекса неплохие для своей цены. Шумоподавление работает, звук ровный. Интеграция с Алисой — прикольная фишка. Но до Sony далеко.", "rating": 4, "date": "2025-03-01", "verified_purchase": true, "helpful_count": 18},
+          {"id": "yr004", "text": "Купил ради Алисы. Наушники средние — давят на уши, пластик дешёвый. Но Алиса в наушниках удобна — можно управлять умным домом.", "rating": 3, "date": "2025-02-10", "verified_purchase": true, "helpful_count": 22}
+        ]
+      },
+      {
+        "id": "ya_h003",
+        "name": "Sennheiser Momentum 4 Wireless",
+        "price": 26990,
+        "original_price": 31990,
+        "rating": 4.7,
+        "review_count": 320,
+        "url": "https://market.yandex.ru/product/sennheiser-momentum4-003",
+        "in_stock": true,
+        "seller_id": "ya_seller_sennheiser",
+        "seller_name": "Sennheiser Official",
+        "attributes": {"Тип": "полноразмерные", "Подключение": "Bluetooth 5.2", "Шумоподавление": "адаптивное", "Время работы": "60 ч", "Вес": "293 г"},
+        "reviews": [
+          {"id": "yr005", "text": "Звук лучше чем у Sony XM5 — более натуральный и детальный. Шумоподавление чуть слабее. Батарея 60 часов — это не шутка, реально столько держит. Для аудиофилов — лучший выбор.", "rating": 5, "date": "2025-03-05", "verified_purchase": true, "helpful_count": 42},
+          {"id": "yr006", "text": "Если важен звук, а не максимальное шумоподавление — берите Sennheiser. Звук богатый, сцена широкая. Минус — тяжелее Sony, давят на макушку.", "rating": 4, "date": "2025-02-20", "verified_purchase": true, "helpful_count": 28},
+          {"id": "yr007", "text": "Пользуюсь полгода для работы из дома. Комфортные, звук отличный для музыки и подкастов. Микрофон хороший для звонков. Рекомендую.", "rating": 5, "date": "2025-01-15", "verified_purchase": true, "helpful_count": 15}
+        ]
+      }
+    ],
+    "ноутбуки": [
+      {
+        "id": "ya_n001",
+        "name": "Apple MacBook Air 13 M2 (8GB, 256GB)",
+        "price": 89990,
+        "original_price": 99990,
+        "rating": 4.9,
+        "review_count": 890,
+        "url": "https://market.yandex.ru/product/macbook-air-m2-001",
+        "in_stock": true,
+        "seller_id": "ya_seller_apple",
+        "seller_name": "Apple Store",
+        "attributes": {"Процессор": "Apple M2", "ОЗУ": "8 ГБ", "SSD": "256 ГБ", "Экран": "13.6\" Liquid Retina", "ОС": "macOS"},
+        "reviews": [
+          {"id": "yr020", "text": "Лучший ноутбук для работы. Бесшумный, батарея 12+ часов, экран великолепный. 8 ГБ хватает для браузера + IDE + мессенджеры. Минус — SSD 256 маловато.", "rating": 5, "date": "2025-03-10", "verified_purchase": true, "helpful_count": 67},
+          {"id": "yr021", "text": "Для iOS-разработки незаменим. Xcode летает. Но 256 ГБ — это мало, пожалел что не взял 512.", "rating": 4, "date": "2025-02-15", "verified_purchase": true, "helpful_count": 34}
+        ]
+      },
+      {
+        "id": "ya_n002",
+        "name": "ASUS Vivobook 15 (i5-1335U, 16GB, 512GB SSD)",
+        "price": 53490,
+        "original_price": 59990,
+        "rating": 4.5,
+        "review_count": 410,
+        "url": "https://market.yandex.ru/product/asus-vivobook15-002",
+        "in_stock": true,
+        "seller_id": "ya_seller_asus",
+        "seller_name": "ASUS Store",
+        "attributes": {"Процессор": "Intel Core i5-1335U", "ОЗУ": "16 ГБ", "SSD": "512 ГБ", "Экран": "15.6\" FHD IPS", "ОС": "Без ОС"},
+        "reviews": [
+          {"id": "yr022", "text": "Доставка Яндекса порадовала — на следующий день. Ноут хороший для работы, экран нормальный. Windows поставил сам.", "rating": 4, "date": "2025-03-01", "verified_purchase": true, "helpful_count": 8},
+          {"id": "yr023", "text": "Для учёбы в университете — отлично. Не тяжёлый, батарея на пары хватает. Производительности достаточно для Word, браузера и VS Code.", "rating": 5, "date": "2025-02-05", "verified_purchase": true, "helpful_count": 14}
+        ]
+      }
+    ],
+    "смартфоны": [
+      {
+        "id": "ya_s001",
+        "name": "Google Pixel 8 128GB",
+        "price": 54990,
+        "original_price": 59990,
+        "rating": 4.6,
+        "review_count": 670,
+        "url": "https://market.yandex.ru/product/pixel-8-001",
+        "in_stock": true,
+        "seller_id": "ya_seller_google",
+        "seller_name": "Google Store",
+        "attributes": {"Экран": "6.2\" OLED 120Hz", "Процессор": "Tensor G3", "ОЗУ": "8 ГБ", "Камера": "50 МП + 12 МП", "Батарея": "4575 мАч"},
+        "reviews": [
+          {"id": "yr030", "text": "Лучшая камера в этом ценовом сегменте. Фото при любом освещении — огонь. Чистый Android — красота. Magic Eraser реально работает. Минус — Tensor греется при нагрузке.", "rating": 5, "date": "2025-03-08", "verified_purchase": true, "helpful_count": 48},
+          {"id": "yr031", "text": "Компактный, удобный, камера супер. Но в России нет Google Pay, что неудобно. 7 лет обновлений — большой плюс.", "rating": 4, "date": "2025-02-15", "verified_purchase": true, "helpful_count": 25}
+        ]
+      },
+      {
+        "id": "ya_s002",
+        "name": "Samsung Galaxy S24 128GB",
+        "price": 71990,
+        "original_price": 79990,
+        "rating": 4.7,
+        "review_count": 980,
+        "url": "https://market.yandex.ru/product/samsung-s24-002",
+        "in_stock": true,
+        "seller_id": "ya_seller_samsung",
+        "seller_name": "Samsung Official",
+        "attributes": {"Экран": "6.2\" Dynamic AMOLED 2X", "Процессор": "Exynos 2400", "ОЗУ": "8 ГБ", "Камера": "50 МП", "Батарея": "4000 мАч"},
+        "reviews": [
+          {"id": "yr032", "text": "На Яндексе дороже чем на WB, но доставка быстрее и гарантия нормальная. Телефон сам по себе отличный.", "rating": 4, "date": "2025-03-05", "verified_purchase": true, "helpful_count": 15},
+          {"id": "yr033", "text": "Топовый Samsung. AI-функции работают, камера снимает прекрасно. Но батарея слабовата для флагмана 2024 года.", "rating": 4, "date": "2025-02-22", "verified_purchase": true, "helpful_count": 20}
+        ]
+      }
+    ],
+    "пылесосы": [
+      {
+        "id": "ya_v001",
+        "name": "Roborock S8 MaxV Ultra Робот-пылесос",
+        "price": 91990,
+        "original_price": 99990,
+        "rating": 4.9,
+        "review_count": 340,
+        "url": "https://market.yandex.ru/product/roborock-s8maxv-001",
+        "in_stock": true,
+        "seller_id": "ya_seller_roborock",
+        "seller_name": "Roborock Official",
+        "attributes": {"Тип": "робот-пылесос", "Влажная уборка": "да", "Мощность": "10000 Па", "Навигация": "LiDAR + камера"},
+        "reviews": [
+          {"id": "yr040", "text": "Топовый робот. Убирает идеально, обходит препятствия, моет полы. Дорого, но стоит того. Самый умный робот-пылесос что у меня был.", "rating": 5, "date": "2025-03-02", "verified_purchase": true, "helpful_count": 33},
+          {"id": "yr041", "text": "За эти деньги ожидал идеала. Робот хороший, но не идеальный — углы моет плохо, иногда путает носки с препятствиями. Но в целом — лучший на рынке.", "rating": 4, "date": "2025-02-08", "verified_purchase": true, "helpful_count": 26}
+        ]
+      },
+      {
+        "id": "ya_v002",
+        "name": "iRobot Roomba j7+ Робот-пылесос",
+        "price": 44990,
+        "original_price": 54990,
+        "rating": 4.4,
+        "review_count": 560,
+        "url": "https://market.yandex.ru/product/irobot-roomba-j7-002",
+        "in_stock": true,
+        "seller_id": "ya_seller_irobot",
+        "seller_name": "iRobot Store",
+        "attributes": {"Тип": "робот-пылесос", "Влажная уборка": "нет", "Мощность": "3000 Па", "Навигация": "камера + AI"},
+        "reviews": [
+          {"id": "yr042", "text": "Хороший пылесос для сухой уборки. Обходит провода и носки благодаря камере. Но нет влажной уборки — для меня минус. Самоочистка работает.", "rating": 4, "date": "2025-02-25", "verified_purchase": true, "helpful_count": 19},
+          {"id": "yr043", "text": "Бренд iRobot заслуживает доверия, но за эту цену конкуренты предлагают больше. Нет влажной уборки, мощность средняя. Зато надёжный и не ломается.", "rating": 3, "date": "2025-01-20", "verified_purchase": true, "helpful_count": 27}
+        ]
+      }
+    ]
+  }
+}
